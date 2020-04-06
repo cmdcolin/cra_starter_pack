@@ -42,6 +42,10 @@ Then I had the .eslintrc and .prettierrc manually setup
       "jsx": true,
       "modules": true
     }
+  },
+  "env": {
+    "browser": true,
+    "jest": true
   }
 }
 ```

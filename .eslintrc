@@ -23,5 +23,9 @@
       "jsx": true,
       "modules": true
     }
+  },
+  "env": {
+    "browser": true,
+    "jest": true
   }
 }
